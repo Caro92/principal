@@ -1,0 +1,30 @@
+clase h1.ver-ex
+
+.ver-ex define una clase 
+
+no espacio en .verex
+
+
+
+
+#miid etiqueta o da un id unico , no es una clase es una definicion con su propio id
+
+
+...........HOJAS DE ESTILO ·······
+autor
+	online
+	interna
+	externa en 3 
+		persistente ATRIBUTO REL HOJA EXTERNA
+		preferente lleva un title 
+		alternativa AL REL se le pone rel=Stylesheet es obligatorio el title	
+
+usuario
+	
+default
+
+
+
+
+
+preferente lo toma de la persistente o default
